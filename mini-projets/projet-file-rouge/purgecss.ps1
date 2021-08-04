@@ -1,0 +1,1 @@
+purgecss --css css/bootstrap.css  --content _site/*.html --output  min-css/
