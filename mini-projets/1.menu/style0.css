@@ -1,0 +1,86 @@
+/* Normalisation */
+body{
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: black;
+  background-color: white;
+}
+
+a{
+  color: #7952b3;
+  text-decoration: underline;
+}
+a:hover{
+  color: #61428f;
+}
+
+ul{
+  padding-left: 2rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Bar de navigation */
+.bg-primary {
+  background-color: #7952b3 !important;
+}
+
+.container{
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+  margin-right: auto;
+  margin-left: auto
+}
+
+
+.nav-link {
+  display: block;
+  color: #7952b3;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #61428f;
+}
+
+
+
+.navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-nav{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  text-decoration: none;
+  font-size: 1.25rem;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  white-space: nowrap;
+}
+
+.navbar-dark .navbar-brand {
+  color: #fff;
+}
+.navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+  color: #fff;
+}
