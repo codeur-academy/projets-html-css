@@ -15,7 +15,7 @@ header h1{
     color: indigo;
 }
 header .date{
-    color: #6c757d;
+    color: grey;
     font-style: italic;
     margin: 0 0 0.5rem 0;
 }
@@ -23,17 +23,15 @@ header .category{
     display: inline-block;
     padding: 0.35em 0.65em;
     border-radius: 0.25rem;
-    background-color: #BCB586;
-    color: #fff;
+    background-color :indigo;
+    color: white;
     font-size: 0.75em;
     font-weight: 700;
     line-height: 1;
     text-align: center;
     text-decoration: none;
+    opacity: 0.75;
 }
-/* header .category:link,header .category:visited {
-    color: #fff;
-} */
 
 figure{
     border: 1px solid;
