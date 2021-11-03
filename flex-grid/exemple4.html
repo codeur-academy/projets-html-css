@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/flexboxgrid1.css">
+    <style>
+        body{
+            margin: 0px;
+        }
+        header nav ul  {
+            display: flex;
+            list-style: none;
+        }
+        header nav ul li{
+            flex : 0 0 100px;
+            background-color: indigo;
+            color : white;
+            margin: 0px 4px;
+            padding: 3px;
+            text-align: center;
+
+        }
+        main h1{
+            color: indigo;
+        }
+        aside {
+            background-color: pink;
+        }
+        footer{
+            background-color: black;
+            color: white;
+            padding: 0.25rem;
+        }
+    </style>
+</head>
+<body class="container">
+    <header class="row">
+        <nav>
+            <ul>
+                <li>Accueil</li>
+                <li>Page 1</li>
+                <li>Page 2</li>
+                <li>Page 3</li>
+            </ul>
+        </nav>
+    </header>
+    <main class="row">
+        <aside class="col-xs-12 col-md-3 col-lg-2">
+            <nav>
+                <h3>Navigation</h3>
+                <ul>
+                    <li>Accueil</li>
+                    <li>Page 1</li>
+                    <li>Page 2</li>
+                    <li>Page 3</li>
+                </ul>
+            </nav>
+        </aside>
+        <article class="col-xs-12 col-md-6 col-lg-8">
+            <h1>Titre de l'article</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil iste dolorum ipsam omnis perferendis, suscipit quaerat ex doloribus esse quas voluptates, officiis tempore nobis sapiente itaque quod sequi adipisci? Cupiditate dolorum debitis culpa odit aliquam ipsum omnis odio sint beatae est commodi laudantium molestiae dicta, eius eaque explicabo magnam alias nostrum provident, incidunt vero impedit quaerat adipisci inventore. Error, rerum repudiandae. Rem, magni necessitatibus tempora illo facilis sit porro et nostrum libero, voluptas voluptate. Omnis officia quasi quod minima architecto, neque iste ratione rerum distinctio quaerat iusto placeat hic ad. Enim inventore similique voluptatibus odit veniam facere ea voluptatum repellat consequatur tempore. Quisquam impedit sit illo neque, qui omnis sunt. Similique praesentium dolore porro laudantium. Fugit a, soluta vitae dolor fuga natus quis velit, temporibus amet eaque asperiores sit similique aliquam placeat? Ea, deserunt id omnis minus adipisci molestias laudantium sit repudiandae? Aperiam veniam laudantium nostrum odio iusto aut autem quae, numquam necessitatibus possimus. Distinctio corrupti quos, accusantium vitae autem quae rem repudiandae possimus numquam sit earum. Repudiandae a enim, labore alias blanditiis, laboriosam similique minus pariatur esse debitis placeat, nulla in? Accusamus, consectetur corrupti nostrum illo, consequatur tempora dolorum vitae labore temporibus similique saepe voluptatum libero ducimus adipisci maiores?</p>
+        </article>
+        <aside class="col-xs-12 col-md-6 col-lg-2">
+            <nav>
+                <h3>Catégories</h3>
+                <ul>
+                    <li>Catégorie 1</li>
+                    <li>Catégorie 2</li>
+                    <li>Catégorie 3</li>
+                </ul>
+            </nav>
+        </aside>
+
+    </main>
+    <footer class="row">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed iure recusandae consectetur harum quam quo omnis, modi eum quisquam rem illo consequuntur reprehenderit soluta iusto vel debitis placeat sequi nam dignissimos! Tenetur quam asperiores a odio expedita nemo nulla illum animi, consectetur quidem, reprehenderit sapiente consequatur in quis, quia cum.</p>
+    </footer>
+</body>
+</html>
