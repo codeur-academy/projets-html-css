@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+header nav ul  {
+    display: flex;
+    list-style: none;
+}
+header nav ul li{
+    flex : 0 0 100px;
+    background-color: indigo;
+    color : white;
+    margin: 0px 4px;
+    padding: 3px;
+    text-align: center;
+
+}
+main h1{
+    color: indigo;
+}
+aside {
+    background-color: pink;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 0.25rem;
+}
