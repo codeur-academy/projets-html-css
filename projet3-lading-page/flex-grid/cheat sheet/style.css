@@ -1,0 +1,7 @@
+header nav ul  {
+    display: flex;
+    list-style: none;
+}
+header nav ul li{
+    flex : 0 0 100px;
+}
