@@ -1,0 +1,15 @@
+section,header {
+    margin: 16px;
+    padding: 5px;
+    
+}
+
+header { 
+    border: 2px solid grey;
+}
+
+section {
+    border: 2px dotted grey;
+ 
+}
+
