@@ -1,15 +1,71 @@
-section,header {
-    margin: 16px;
+main, 
+section,
+header,
+article,
+nav,
+aside,
+footer {
+    margin-top: 19px;
     padding: 5px;
-    
+    border: 1px solid grey;
+}
+article header,article footer{
+    border-style: dashed;
 }
 
-header { 
-    border: 2px solid grey;
+main{
+    padding: 20px;
 }
 
-section {
-    border: 2px dotted grey;
  
+ 
+/* Nom des éléments */
+main::before, 
+section::before,
+header::before,
+article::before,
+nav::before,
+aside::before,
+footer::before{
+    background-color: gray;
+    color: white;
+    position: absolute;
+    width: 80px;
+    padding: 2px;
+    margin: -6px;
+    text-align: center;
+
+}
+main::before {
+    content: "main";
+    margin: -20px;
+}
+section::before {
+    content: "section";
+}
+header::before {
+    content: "header";
 }
 
+article::before {
+    content: "article";
+}
+nav::before {
+    content: "nav";
+}
+aside::before {
+    content: "aside";
+}
+footer::before {
+    content: "footer";
+}
+
+main::before, main > 
+section::before,
+main > header::before,
+main > article::before,
+main > nav::before,
+main > aside::before,
+body > footer::before{
+    background-color: dodgerblue;
+}
