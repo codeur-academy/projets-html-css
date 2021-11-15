@@ -13,7 +13,7 @@ Réalisation de la page d'hommage de Linus Torvalds avec HTML5 et CSS3
 
 La page doit ressemble à la maquette suivant : 
 
-![maquette](docs/images/maquette-page-hommage.png)
+![maquette](départ/images/maquette-page-hommage.png)
 
 ## Scénario de présentation
 
