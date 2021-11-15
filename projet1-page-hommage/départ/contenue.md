@@ -1,29 +1,12 @@
 
 # Linus Torvalds
 
-![](linus-torvalds.jpg)
-
-Activités	: Programmeur, développeur
+Programmeur, développeur
 
 Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais.
 
 Il est notamment connu pour avoir créé en 1991 (à 21 ans) le noyau Linux, dont il continue de diriger le développement. Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface.
 
-## Œuvres principales
-
-- Noyau Linux
-- Git
-- Subsurface
-
-# Formation et travail
-- Domaine	Ingénieur logiciel
-- Formation	: Université d'Helsinki (maîtrise) (1988-1996)
-- A travaillé pour : 
-  - Fondation Linux (depuis le 22 janvier 2007), 
-  - Open Source Development Labs (juin 2003 - 22 janvier 2007), 
-  - Transmeta (février 1997 - juin 2003), 
-  - université d'Helsinki (1992-1996)
-  - 
 ## Distinctions	
 
 - EFF Pioneer Award (1998)
@@ -36,7 +19,20 @@ Il est notamment connu pour avoir créé en 1991 (à 21 ans) le noyau Linux, don
 - Prix Millennium Technology (2012)
 - Computer Pioneer Award (2014)
 - IEEE Masaru Ibuka Consumer Electronics Award (2018)
+  
+# Travail
 
-# Lien Wiki
+  - Fondation Linux (depuis le 22 janvier 2007), 
+  - Open Source Development Labs (juin 2003 - 22 janvier 2007)
+  - Transmeta (février 1997 - juin 2003), 
+  - université d'Helsinki (1992-1996)
+  
+## Formation 
 
-https://fr.wikipedia.org/wiki/Linus_Torvalds
+- Formation	: Université d'Helsinki (maîtrise) (1988-1996)
+
+## Œuvres principales
+
+- Noyau Linux
+- Git
+- Subsurface
