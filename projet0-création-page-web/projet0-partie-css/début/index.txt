@@ -1,0 +1,19 @@
+Qu'est-ce que l'ordinateur
+
+image exemple d'un ordinateur
+
+Un ordinateur est un appareil électronique capable de réaliser rapidement des opérations mathématiques, logiques, des manipulations de chaînes de caractères ou des recherches. Il est composé de deux grandes parties :
+
+- l'unité centrale
+- les périphériques d'entrée ou de sortie
+
+Composition d’un ordinateur
+
+L’ordinateur est composé d’un ensemble de composants électroniques (électriques) reliés entre eux.Ces éléments sont placés sur un circuit imprimé nommé carte mère .Les éléments connectés à la carte mère et constituant l’ordinateur
+
+1. Le processeur ou microprocesseur
+2. La mémoire vive
+3. Le disque dur
+4. L’écran
+5. Le clavier
+6. La souris
